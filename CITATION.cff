@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "DSGEA"
+authors:
+  - family-names: Zou
+    given-names: Yingjie
+repository-code: "https://github.com/RichieZou/DSGEA"
+preferred-citation:
+  type: article
+  title: "An evolutionary algorithm based on dynamic sparse grouping for sparse large scale multiobjective optimization"
+  authors:
+    - family-names: Zou
+      given-names: Yingjie
+    - family-names: Liu
+      given-names: Yuan
+    - family-names: Zou
+      given-names: Juan
+    - family-names: Yang
+      given-names: Shengxiang
+    - family-names: Zheng
+      given-names: Jinhua
+  journal: "Information Sciences"
+  volume: 631
+  start: 449
+  end: 467
+  year: 2023
+  month: 6
+  publisher:
+    name: Elsevier
+  doi: "10.1016/j.ins.2023.02.062"
